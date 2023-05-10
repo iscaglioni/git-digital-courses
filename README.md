@@ -3,3 +3,5 @@
 ## Gravando mudanças no repositório
 
 ### Git Log
+
+\*comando git push
